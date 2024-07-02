@@ -1,0 +1,23 @@
+# Variabel dengan tipe data integer
+
+umur = 19
+
+# Variabel dengan tipe data float tinggi_badan = 175.5
+
+#Variabel dengan tipe data string nama "Muhammad Aziz ansori"
+
+# Variabel dengan tipe data boolean
+
+belum_menikah = False
+
+# Menampilkan nilai variabel
+
+print("Umur:", umur)
+
+print("Tinggi Badan:",
+
+tinggi_badan) print("Nama:", nama)
+
+print("Belum Menikah:",
+
+belum_menikah)
