@@ -1,0 +1,61 @@
+[2/7 5.10 PM] Angga Pti C: # aritmatika
+
+x = 9
+
+y = 3
+
+#penjumlahan
+
+hasil x + y print(x, '+', y, '=' hasil)
+
+# pengurangan
+
+hasil x y
+
+print(x, '-', y, '=', hasil)
+
+#perkalian x
+
+hasil = x * y
+
+print(x, 'x', y, '=', hasil)
+
+# pembagian
+
+hasil = x/y
+
+print(x, ':', y, '=', hasil)
+
+#exponen (perpangkatan) **
+
+hasil = x ** y
+
+print(x, '^', y, '=', hasil)
+
+
+
+
+
+#modulus (sisa bagi) %
+
+hasil = x % y print(x, 'Mod' , y, '=', hasil)
+
+# floor division (pembulatan kebawah) //
+
+hasil = x // y print(x, '//', y, '=', hasil)
+
+# aritmatika prioritas #(), exponen, perkalian, penjumlahan
+
+x = 3
+
+y = 4
+
+z = 5
+
+print(hasil)
+
+hasil = ( x **y*z + x/yz % x // y)
+
+print(x, '**', y, '**', Z, '+', '/', '-', z, '%', x, '//, y, '=',
+
+hasil)
